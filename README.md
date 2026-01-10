@@ -71,5 +71,8 @@ This allows unauthorized creation of sub-admin accounts **without the victim’s
 - Reject requests missing valid CSRF tokens
 
 ### Discovered By
-* Mo Asim
+
+* **Mo Asim** also known as **Asim Qazi**
 * Github: @Asim-Qazi
+* Linkedin: [Asim Qazi](https://www.linkedin.com/in/masimqazi)
+* Student | Security Researcher
