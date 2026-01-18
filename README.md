@@ -1,3 +1,4 @@
+# CVE-2026-1142
 ## Cross-Site Request Forgery (CSRF) – Add Subadmin in News Portal Project in PHP and MySql in PHPGurukul
 
 **Application:** News Portal Project in PHPGurukul
